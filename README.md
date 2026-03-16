@@ -104,7 +104,7 @@ While running, the program automatically generates a telemetry (log) file. This 
 
 You can easily compile and run the project using the GCC compiler:
 
-```bash
+bash
 # To compile the code
 gcc eclss_simulation.c -o eclss
 
