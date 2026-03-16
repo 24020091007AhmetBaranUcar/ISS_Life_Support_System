@@ -111,7 +111,7 @@ gcc eclss_simulation.c -o eclss
 # To start the simulation
 ./eclss
 
-=====================================================================================
+============================================================================
 
 
 # 🚀 NASA ECLSS (Yaşam Destek Sistemi) Simülasyonu
